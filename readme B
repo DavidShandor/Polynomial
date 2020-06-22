@@ -1,0 +1,34 @@
+Username: Davidsa
+Name: David Shandor   id: 302902705
+
+Program Description:
+This program calculate intergal with threads.
+The user can choose how many threads to use, which integarl to integrate and what range to calculate.
+
+
+Compilation:
+Type in the terminal: gcc ex3b.c -o ex3b
+
+
+Launch the Program: 
+After compilation to ex3b, in the terminal type: ./ex3b [number of threads]
+
+Attached filed:
+ex3b.c, readme B
+
+How to use the program:
+Compile and run as the instruction above, with the requested number of threads.
+Then, type the intergal to slove according this syntax: 
+If you want to use variable type: x^[power].
+Between variables and free parameter use "+" only.
+then type ", [from], [to]". This is the range of the integration. 
+
+NOTE:
+There is no note. Enjoy!
+
+
+
+
+
+
+
